@@ -6,7 +6,7 @@ This repository contains a collection of Python scripts for automating everyday 
 The goal of this project is to build and organize small automation tools using Python. These scripts help reduce manual work and improve efficiency.
 
 ## 📂 Projects
-- `automation.py` – Script for updating prices en masse (e.g., working with Excel files)
+- `workbook_automation.py` – Script for updating prices en masse (e.g., working with Excel files)
 - More automation scripts will be added over time
 
 ## 🛠️ Technologies Used
