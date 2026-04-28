@@ -1,4 +1,4 @@
-# Python Automation
+# Automation with Python
 
 This repository contains a collection of Python scripts for automating everyday tasks and workflows.
 
@@ -18,5 +18,5 @@ The goal of this project is to build and organize small automation tools using P
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ZhanaraZeinesheva/python-automation.git
-cd python-automation
+git clone https://github.com/ZhanaraZeinesheva/automation-with-python.git
+cd automation-with-python
