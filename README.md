@@ -14,8 +14,10 @@ The goal of this project is to build and organize small automation tools using P
 
 ## 🛠️ Technologies Used
 - Python
-- openpyxl (for Excel automation)
-- pandas (optional for data processing)
+- pandas (for data cleaning, transformation, and merging datasets)
+- openpyxl (for Excel file automation and manipulation)
+- os (for file handling and working with multiple files)
+- re (for text cleaning and pattern matching)
 
 ## 🚀 Getting Started
 
