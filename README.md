@@ -3,7 +3,7 @@
 This repository contains a collection of Python scripts for automating everyday tasks and workflows.
 
 ## 📌 About
-The goal of this project is to build and organize small automation tools using Python. These scripts help reduce manual work and improve efficiency.
+The goal of this project is to build and organize small automation tools using Python. These scripts help reduce manual work and improve efficiency. All datasets used in this project are sourced from publicly available platforms such as Kaggle and Google.
 
 ## 📂 Projects
 - `workbook_automation.py` – Script for updating prices en masse (e.g., working with Excel files)
