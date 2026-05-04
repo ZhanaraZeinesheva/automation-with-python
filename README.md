@@ -9,6 +9,7 @@ The goal of this project is to build and organize small automation tools using P
 - `workbook_automation.py` – Script for updating prices en masse (e.g., working with Excel files)
 - `data_cleaning.py` – Script for cleaning messy datasets (e.g., fixing encoding issues, formatting columns, and preparing data for analysis)
 - `data_cleaning_reusable.py` – Reusable script for cleaning datasets across different files (e.g., removing extra spaces, duplicates, standardizing text, and handling missing values)
+- `merge_files.py` – Script for merging multiple Excel files into a single dataset (e.g., combining reports, consolidating data, and tracking source files)
 - More automation scripts will be added over time
 
 ## 🛠️ Technologies Used
