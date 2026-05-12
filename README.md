@@ -12,6 +12,7 @@ The goal of this project is to build and organize small automation tools using P
 - `merge_files.py` – Script for merging multiple Excel files into a single dataset (e.g., combining reports, consolidating data, and tracking source files)
 - `split_files.py` – Script for splitting big Excel file into small files based on the category (e.g., region, country, payment type, year etc.)
 - `csv_converter.py` – Script for converting xlsx files to cvs format
+- `combine_csv_files.py` – Script for combining multiple CSV files into a single Excel workbook with separate sheets
 - More automation scripts will be added over time
 
 ## 🛠️ Technologies Used
